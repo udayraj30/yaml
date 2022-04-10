@@ -1,0 +1,18 @@
+"apple" : "i am a red fruit"
+l: "this is uday's roll number"
+---
+# lists 
+-apple
+-mango 
+-banana
+-apple
+---
+cities : 
+-new delhi 
+-mumbai 
+-gujrat
+---
+cities: [mumbai,ooty,hyderabad]
+---
+{mango: "yellow fruit,season summer"}
+---

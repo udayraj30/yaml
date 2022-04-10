@@ -1,0 +1,37 @@
+myself: udayraj dhavande
+fruits: "apple"
+job: 'devops engineer'
+
+bio: |
+hey my name is udayraj.
+
+#writing single lines in multiple lines
+message: >
+this will
+all be  
+in one single line
+
+#same as 
+message: this will be also in single line
+
+number: 5743
+marks: 96.76
+booleanValue: !!bool No #n,N, false,False,FALSE
+#Same for true-> yes,y,Y,YES
+
+#specify the type
+zero: !!int 0
+positiveNum: !!int 45
+negativeNum: !!int -45
+binaryNum: !!int 0b1101
+octaNum: !!int 06574
+commaValue: !!int +540_000 # 540,000
+
+
+#floating point numbers
+marks: !!float 56.89
+infinite: !!float .inf
+
+date: 2022-04-10
+india time: 2022-04-10T02:59:43.10 +5:30
+no time zone: 2022-04-10T02:59:43.10
